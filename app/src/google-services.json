@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266316968222",
+    "firebase_url": "https://monitask-26b33-default-rtdb.firebaseio.com",
+    "project_id": "monitask-26b33",
+    "storage_bucket": "monitask-26b33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266316968222:android:d574dd229330d80c5fd90f",
+        "android_client_info": {
+          "package_name": "com.juwmonitaskapp.monitask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266316968222-vuacmi14vuhopkv0qishmv37d0n9ep5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy1r2v9PMEwlHbHjVfzu4T9KZC2EkGPt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266316968222-vuacmi14vuhopkv0qishmv37d0n9ep5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
